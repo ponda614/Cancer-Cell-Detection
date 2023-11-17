@@ -53,5 +53,5 @@ I am still currently working on addressing this overfitting issue. Strategies be
 
 **Next Steps**: Still exploring ways to improve the model. This includes tweaking the architecture, exploring new regularization techniques, and diversifying our training data. 
 
-**The Bigger Picture**: Despite these challenges, we're excited about the potential impact of our work. Improving the model's ability to detect TNTs could have significant implications in cancer research.
+**The Bigger Picture**: Despite these challenges, I am excited about the potential impact of our work. Improving the model's ability to detect TNTs could have significant implications in cancer research.
 
